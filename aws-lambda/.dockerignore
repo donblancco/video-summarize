@@ -1,0 +1,21 @@
+# 不要なファイルをイメージから除外
+layers/
+*.zip
+terraform/
+local-test/
+.git/
+.gitignore
+README.md
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.coverage
+.pytest_cache/
+htmlcov/

@@ -1,0 +1,18 @@
+# AWS Lambda用の依存関係
+# Lambda環境: Linux x86_64, Python 3.11
+
+# OpenAI API for transcription and article generation
+openai==1.51.0
+
+# AWS SDK (Lambda環境では標準で利用可能だが、バージョン固定のため明示)
+boto3==1.34.144
+
+# WordPress投稿用
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# その他ユーティリティ
+python-dateutil==2.9.0
+
+# 音声処理用 - Pythonネイティブ
+moviepy==1.0.3

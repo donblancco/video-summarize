@@ -1,0 +1,19 @@
+# ==============================================================================
+# Terraform変数の設定例
+# このファイルをコピーしてterraform.tfvarsを作成し、実際の値を設定してください
+# ==============================================================================
+
+# AWS設定
+aws_region  = "ap-northeast-1"
+environment = "prod"
+
+# プロジェクト設定
+project_name = "video-article-processing"
+
+# OpenAI API設定
+openai_api_key = "sk-your-openai-api-key-here"
+
+# WordPress設定
+wordpress_site_url      = "https://your-wordpress-site.com"
+wordpress_username      = "your-username"
+wordpress_app_password  = "your-app-password"

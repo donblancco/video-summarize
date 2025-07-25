@@ -1,0 +1,8 @@
+# サンプルYouTube URLリスト
+# これらは実際のプロジェクトで使用されたYouTube動画のIDです
+# テスト用にプレースホルダーに置き換えました
+
+https://www.youtube.com/watch?v=SAMPLE_VIDEO_ID_1
+https://www.youtube.com/watch?v=SAMPLE_VIDEO_ID_2  
+https://www.youtube.com/watch?v=SAMPLE_VIDEO_ID_3
+# ... 他のサンプル動画URL
